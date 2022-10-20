@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @aman2970
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning frontend with react
-- 💞️ I’m looking to collaborate on website clones
+- 👋 Hi, I’m Aman Singh
+- 👀 I’m interested in android development
+- 🌱 I’m currently learning android development
+- 💞️ I’m looking to collaborate object detection
 - 📫 How to reach me amansingh08087@gmail.com
 
 <!---
