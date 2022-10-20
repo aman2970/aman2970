@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aman Singh
 - 👀 I’m interested in android development
 - 🌱 I’m currently learning android development
-- 💞️ I’m looking to collaborate object detection
+- 💞️ I’m looking to collaborate on object detection
 - 📫 How to reach me amansingh08087@gmail.com
 
 <!---
